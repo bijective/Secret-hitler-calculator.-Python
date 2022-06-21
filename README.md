@@ -1,1 +1,1 @@
-# School-project
+# Secret Hitler calculator
