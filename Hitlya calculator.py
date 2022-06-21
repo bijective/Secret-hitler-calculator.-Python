@@ -1,7 +1,7 @@
 import math
-print("Сколько Элочек Sir?")
+print("How much L Sir?")
 L = int(input())
-print("Сколько Эфочек Sir?")
+print("How much F Sir?")
 F = int(input())
 Fl = F + L
 
